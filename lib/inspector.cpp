@@ -21,5 +21,6 @@ namespace inspector {
       value.print(outStream);
       std::cout << out;
     }
+
   }
 }
