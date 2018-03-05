@@ -1,0 +1,5 @@
+Features
+========
+
+.. toctree::
+    contrib/contrib
